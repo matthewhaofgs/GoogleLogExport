@@ -56,7 +56,7 @@ SETUP INSTRUCTIONS (FIRST RUN ONLY)
 
 2. Run the script:
 
-     python google_workspace_logs_export.py
+     python logexport.py
 
 3. Follow the on-screen prompts:
    - It will open your browser to guide you through:
