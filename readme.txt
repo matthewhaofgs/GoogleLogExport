@@ -23,7 +23,7 @@ FEATURES
 FILES AND FOLDER STRUCTURE
 --------------------------------------------------------------------------------
 
-google_workspace_logs_export.py     The main Python script
+logexport.py     The main Python script
 requirements.txt                    Python packages to install
 README.md                           This documentation
 credentials.json                    Your service account key file (you provide)
